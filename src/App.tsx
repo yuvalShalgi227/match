@@ -3,7 +3,7 @@ import DraggableLetter from './components/DraggableLetter';
 function App() {
     return (
         <div className="App">
-            <DraggableLetter letter="Apple" />
+            <DraggableLetter letters="Apple" />
         </div>
     );
 }
